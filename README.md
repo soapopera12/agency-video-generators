@@ -1,5 +1,9 @@
 # 🎥 Agency Video Generators
 
+<p align="center">
+  <img src="./assets/some_image.jpg" alt="Logo" width="900" height="400">
+</p>
+
 > **Your AI-powered film crew — turn a single idea into a cinematic video prompt.**
 
 Inspired by the multi-agent architecture of `agency-agents`, this project simulates a **full 10-role movie production team** that collaborates to transform rough ideas into **high-quality, production-ready video prompts**.
