@@ -1,7 +1,3 @@
-Here’s a cleaner, sharper, **GitHub-ready README rewrite** with better structure, clarity, and a more “serious project” tone while still keeping your vibe.
-
----
-
 # 🎥 Agency Video Generators
 
 > **Your AI-powered film crew — turn a single idea into a cinematic video prompt.**
